@@ -98,12 +98,12 @@ body {
 
   .game {
     height: 45vh;
-    width: 84vw;
+    width: 90vw;
   }
 
   .box {
     height: 15vh;
-    width: 28vw;
+    width: 30vw;
     font-size: 3rem;
   }
 
